@@ -115,7 +115,7 @@ const loadingAnimation = () => {
 function defineProperty() {
   var osccred = document.createElement("div");
  osccred.innerHTML =
-    "A Project By <a href='https://chat.openai.com/' target=_blank>Open Source Coding</a>";
+    "A Project By <a href='https://github.com/samramariyam/Quiz-App' target=_blank>Samra Mariyam</a>";
   osccred.style.position = "absolute";
   osccred.style.bottom = "0";
   osccred.style.right = "0";
